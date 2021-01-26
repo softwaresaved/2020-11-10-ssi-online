@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
-
+Video recordings from this workshop are available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
 {% comment %}
 INTRODUCTION
 
