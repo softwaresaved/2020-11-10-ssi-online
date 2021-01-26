@@ -231,7 +231,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 <hr/>
 
 <h2 id="surveys">Video Recordings</h2>
-Video recordings from this workshop are now available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
+Video recordings from this workshop are now available on [YouTube](https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-).
 <hr/>
 
 {% comment %}
