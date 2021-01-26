@@ -230,6 +230,9 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 
+<h2 id="surveys">Video Recordings</h2>
+Video recordings from this workshop are now available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
+<hr/>
 
 {% comment %}
 Collaborative Notes
@@ -252,10 +255,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
-<h2 id="surveys">Video Recordings</h2>
-Video recordings from this workshop are now available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
-<hr/>
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
