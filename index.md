@@ -78,7 +78,6 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
-Video recordings from this workshop are available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
 {% comment %}
 INTRODUCTION
 
@@ -254,6 +253,9 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<h2 id="surveys">Video Recordings</h2>
+Video recordings from this workshop are now available at https://www.youtube.com/playlist?list=PLpX1jXuNTXGoDO5vuHR_pSyxNBr_M233-.
+<hr/>
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
